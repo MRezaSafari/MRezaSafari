@@ -1,5 +1,8 @@
 # 💫 About Me :
-An ambitious problem solver with a passion for online businesses. I have much experience of creating logical and innovative solutions to complex problems. I am thorough and precise in everything I do, and has a keen interest in technology, mobile applications and user experience. As someone who takes responsibility for my own personal development, I continually evaluating and upgrading my skills so that I stays at the cutting edge of web development. I am a natural problem solver, who has proven myself by successfully completing projects for IT consultancies, software houses, web design agencies, and IT departments.
+As an ambitious problem solver with a profound passion for online businesses, I bring a wealth of experience to the table in creating logical and innovative solutions to even the most complex challenges. With an unwavering commitment to precision and thoroughness, I am deeply invested in the world of technology, mobile applications, and user experience.
+
+As a self-driven individual who takes personal development seriously, I am continually evaluating and upgrading my skills to stay ahead of the curve in web development. My proven track record of successfully completing projects for esteemed IT consultancies, software houses, web design agencies, and IT departments speaks to my natural problem-solving ability and unwavering dedication to excellence.
+
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-safari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1761442) 
